@@ -8,7 +8,6 @@ accountEmail="vivek08@gmail.com"
 accountPassword="Password@123"
 accountCity="Bangluru"
 
-
 console.log("AccountId Is : "+ accountId)
 console.log("AccountEmail Is : ", accountEmail);
 console.log("AccountPassword Is : ", accountPassword);
